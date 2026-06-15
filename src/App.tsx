@@ -226,9 +226,9 @@ export default function App() {
             <div className="flex flex-wrap gap-4 items-center gap-y-3 pt-2">
               <a 
                 href="#checkout-zone"
-                className="bg-[#2B2927] hover:bg-stone-950 text-stone-550 px-8 py-4 rounded-full text-xs font-semibold tracking-[0.2em] transition-all hover:translate-x-1 flex items-center gap-3 shadow-md"
+                className="bg-[#2B2927] hover:bg-stone-950 text-stone-50 px-8 py-4 rounded-full text-xs font-semibold tracking-[0.2em] transition-all hover:translate-x-1 flex items-center gap-3 shadow-md"
               >
-                <span>立即選購預購方案</span>
+                <span className="text-[#fdfdfd]">立即選購預購方案</span>
                 <ArrowRight className="w-4 h-4" />
               </a>
               <a 
