@@ -1,0 +1,6 @@
+{
+  "name": "暮 Moo 極簡美學療癒燈",
+  "description": "暮 Moo 極簡美學感官療癒燈官方 Landing Page。結合暮光暖燈、香氛與自然白噪音，打造專屬睡眠與沉靜角落。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
